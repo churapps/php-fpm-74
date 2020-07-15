@@ -2,7 +2,7 @@
 ## build
 
 ```
-docker build ./ -t php-fpm-74
+docker build ./ -t churadock/php-fpm-74
 ```
 
 ## run
